@@ -1,2 +1,8 @@
 hi this is gen
 java version
+here is some content not affected by the conflict
+<<<<<<< main
+this is conflicted text from main
+=======
+this is conflicted text from feature branch
+>>>>>>> feature branch
